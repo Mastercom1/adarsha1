@@ -1,2 +1,0 @@
-# adarsha1
-adarsha

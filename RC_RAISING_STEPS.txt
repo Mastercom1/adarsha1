@@ -1,0 +1,10 @@
+CA_SoftwareChangeMangerClient_12.1.0300.EXE
+
+TortoiseSVN_TortoiseSVNx64_1.8.10.26129.EZE
+
+Microsoft_VisualStudio_Professional_2015_ULK.EXE
+=========================
+Open RC >
+Serach EGS in serch bar.
+EGS-Software oder servise>>
+Order>
